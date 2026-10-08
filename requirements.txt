@@ -1,0 +1,11 @@
+modal
+requests
+requests-cache
+aiohttp
+aiofiles
+python-dotenv
+tqdm
+tenacity
+loguru
+pandas
+georinex
